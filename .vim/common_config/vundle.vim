@@ -8,13 +8,15 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 
+Plugin 'airblade/vim-gitgutter'
 Plugin 'bling/vim-airline'
-Plugin 'scrooloose/NERDTree'
 Plugin 'kien/ctrlp.vim'
 Plugin 'luochen1990/rainbow'
-Plugin 'tpope/vim-fugitive'
-Plugin 'scrooloose/syntastic'
 Plugin 'rizzatti/dash.vim'
+Plugin 'scrooloose/NERDTree'
+Plugin 'scrooloose/syntastic'
+Plugin 'tpope/vim-endwise'
+Plugin 'tpope/vim-fugitive'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
