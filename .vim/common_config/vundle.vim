@@ -14,7 +14,6 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'luochen1990/rainbow'
 Plugin 'rizzatti/dash.vim'
 Plugin 'scrooloose/NERDTree'
-Plugin 'scrooloose/syntastic'
 Plugin 'tpope/vim-endwise'
 Plugin 'tpope/vim-fugitive'
 
