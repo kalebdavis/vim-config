@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/usr/bin/env bash
 
 function move_if_exists() {
   if [ -e $HOME/$1 ]; then
