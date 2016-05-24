@@ -1,7 +1,7 @@
 runtime! common_config/*.vim
 
-:au FocusLost * :set number
-:au FocusGained * :set relativenumber
+set relativenumber
+set number
 syntax enable 
 
 let mapleader=","
