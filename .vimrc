@@ -52,6 +52,9 @@ endif
 " This must be first, because it changes other options as a side effect.
 set nocompatible
 
+" load filetype-specific-indent files
+filetype indent on
+
 " allow backspacing over everything in insert mode
 set backspace=indent,eol,start
 

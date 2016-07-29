@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/Users/kdavis/.rbenv/versions/2.0.0-p645/lib/ruby/gems/2.0.0/bundler/gems/ncpdp_d0-6fc8133c55f4'
 let g:netrw_dirhist_2='/Users/kdavis/.rbenv/versions/2.0.0-p645/lib/ruby/gems/2.0.0/bundler/gems/ncpdp_d0-6fc8133c55f4/lib/action_dispatch'
 let g:netrw_dirhist_3='/Users/kdavis/.rbenv/versions/2.0.0-p645/lib/ruby/gems/2.0.0/bundler/gems/ncpdp_d0-6fc8133c55f4'
@@ -7,3 +7,4 @@ let g:netrw_dirhist_4='/Users/kdavis/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.
 let g:netrw_dirhist_5='/Users/kdavis/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/version_recognizer-1.0.0/lib/version_recognizer'
 let g:netrw_dirhist_6='/Users/kdavis/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/version_recognizer-1.0.0/lib'
 let g:netrw_dirhist_7='/Users/kdavis/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/version_recognizer-1.0.0'
+let g:netrw_dirhist_8='/Users/kdavis/Documents/vim-config/.vim'
